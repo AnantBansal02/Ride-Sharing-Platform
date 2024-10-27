@@ -45,7 +45,7 @@ The platform leverages a geolocation-based algorithm to match travelers with com
    - The platform checks the indices of the waypoints within the Companion’s geofenced area. If the **source waypoint index** is less than the **destination waypoint index**, it confirms the Companion's desired route aligns with the Traveler’s direction. This criterion prevents mismatches where routes may intersect but lead in different directions.
 
 This methodology provides a robust and flexible solution, enabling partial route-sharing and dynamic ride-matching based on both geographic and directional compatibility.
-
+![Description of image](Diagram.png)
 ---
 
 ## Tech Stack ⚙️
