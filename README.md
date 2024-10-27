@@ -110,7 +110,7 @@ This methodology provides a robust and flexible solution, enabling partial route
    **frontend `.env`**:
    ```env
    VITE_GEO_API_KEY=9a************3aef5
-    VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
+   VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
    ```
 6. **Run the Application**:
    * **Backend**:
