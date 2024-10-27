@@ -18,7 +18,7 @@ Welcome to the Ride Sharing Platform repository! This project is a comprehensive
 - **Secure Authentication**: JWT-based authentication for secure user sessions.
 - **Feedback Mechanism**: Users can provide feedback on rides, enhancing the platform's quality.
   
-### Core Methodology
+### Core Methodology (MUST READ)
 
 The platform leverages a geolocation-based algorithm to match travelers with companions even if they do not have identical starting points or destinations. Below is a detailed breakdown of how this functionality is implemented:
 
@@ -122,10 +122,4 @@ This methodology provides a robust and flexible solution, enabling partial route
      npm run dev
      ```
    
-### API Documentation 📑 
-------------------------------------------------
-The platform's backend provides a RESTful API with the following endpoints: 
-* **Authentication**:
-  * `POST /api/auth/signup`:
-* Register a new user.
-  * `POST /api/auth/login`: Login to an existing account.”
+
