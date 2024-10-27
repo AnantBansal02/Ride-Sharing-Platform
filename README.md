@@ -78,5 +78,26 @@ Welcome to the Ride Sharing Platform repository! This project is a comprehensive
    npm install
    ```
 4. Environment Variables: Create a .env file in both root and frontend directories with the following keys (root for backend):
-   **Backend `.env`**:
+   **root `.env`**:
+   ```env
+   PORT=8000
+   DATABASE_URL=mongodb+srv://anant:**********@cluster0.rv37j5m.mongodb.net/
+   JWT_SECRET=pLhx2g*************5Ri+Mq2hSA/rZl6ZY=
+    
+    MAIL=vir****@gmail.com
+    
+    MAIL_PASS=i********jsb
+    
+    SID = ACbe7***********ddde88a0e
+    AUTH_TOKEN = bcd************5876efc1b56
+    PHONE_NUM = +1******249
+    
+    MAPBOX_ACCESS_TOCKEN=pk.eyJ1Ij*****************n0.UD4_b876WDvl1AP8Sium5g
+    NODE_ENV=development
+   ```
+   **frontend `.env`**:
+   ```env
+   VITE_GEO_API_KEY=9a************3aef5
+    VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
+   ```
    
