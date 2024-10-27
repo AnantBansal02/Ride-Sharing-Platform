@@ -65,7 +65,18 @@ Welcome to the Ride Sharing Platform repository! This project is a comprehensive
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/ride-sharing-platform.git
-   cd ride-sharing-platform
+   git clone https://github.com/AnantBansal02/Ride-Sharing-Platform.git
+   cd Ride-Sharing-Platform
    ```
 2. **Install Backend Dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Install Frontend Dependencies**:
+   ```bash
+   cd ../frontend
+   npm install
+   ```
+4. Environment Variables: Create a .env file in both root and frontend directories with the following keys (root for backend):
+   **Backend `.env`**:
+   
