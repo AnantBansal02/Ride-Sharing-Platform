@@ -1,6 +1,7 @@
 # Ride Sharing Platform 🚗🌎
 
 Welcome to my Ride Sharing Platform repository! This project is a comprehensive solution for facilitating ride-sharing among users with a focus on scalability, real-time notifications, security, and ease of use. The platform allows users to connect, share rides, track their journey, and provide feedback – all managed through a well-organized and user-friendly interface.
+
 **The algorithm behind the working of the application is developed by me solely, have a look at it in the core methodology section and please feel free to provide any suggestion on how can I improve it!**
 
 ---
