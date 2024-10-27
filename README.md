@@ -111,4 +111,20 @@ This methodology provides a robust and flexible solution, enabling partial route
    VITE_GEO_API_KEY=9a************3aef5
     VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
    ```
+5. **Run the Application**:
+   * **Backend**:
+     ```bash
+     node backend/server.js
+     ```
+   * **Frontend**:
+     ```bash
+     cd .\frontend\
+     npm run dev
+     ```
    
+###API Documentation 📑 
+The platform's backend provides a RESTful API with the following endpoints: 
+* **Authentication**:
+  * `POST /api/auth/signup`:
+* Register a new user.
+  * `POST /api/auth/login`: Login to an existing account.”
