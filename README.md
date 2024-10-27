@@ -9,8 +9,8 @@ Welcome to my Ride Sharing Platform repository! This project is a comprehensive 
 ## Features 🛠️
 
 ### User Roles
-- **Traveler**: Can request rides and join existing rides.
-- **Traveler Companion**: Can accompany a Traveler in a shared ride.
+- **Traveler**: Can publish new rides with the desired fare.
+- **Traveler Companion**: Can accompany a Traveler in a shared ride by searching for his source and destination.
 - **Admin**: Manages the platform, including rides, users, and feedback.
 
 ### Core Functionalities
