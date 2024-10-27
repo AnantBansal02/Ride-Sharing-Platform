@@ -92,6 +92,7 @@ This methodology provides a robust and flexible solution, enabling partial route
    npm install
    ```
 4. Environment Variables: Create a .env file in both root and frontend directories with the following keys (root for backend):
+   
    **root `.env`**:
    ```env
    PORT=8000
@@ -111,7 +112,7 @@ This methodology provides a robust and flexible solution, enabling partial route
    VITE_GEO_API_KEY=9a************3aef5
     VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
    ```
-5. **Run the Application**:
+6. **Run the Application**:
    * **Backend**:
      ```bash
      node backend/server.js
