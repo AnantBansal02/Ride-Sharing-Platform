@@ -122,7 +122,8 @@ This methodology provides a robust and flexible solution, enabling partial route
      npm run dev
      ```
    
-###API Documentation 📑 
+### API Documentation 📑 
+------------------------------------------------
 The platform's backend provides a RESTful API with the following endpoints: 
 * **Authentication**:
   * `POST /api/auth/signup`:
